@@ -14,7 +14,7 @@
 [![XLForm](https://github-readme-stats.vercel.app/api/pin/?username=xmartlabs&repo=xlform)](https://github.com/xmartlabs/xlform)
 [![PagerTabStripView](https://github-readme-stats.vercel.app/api/pin/?username=xmartlabs&repo=pagertabstripview)](https://github.com/xmartlabs/pagertabstripview)
 
-### Started kits
+### Starter kits
 
 [![Flask Base API](https://github-readme-stats.vercel.app/api/pin/?username=mtnbarreto&repo=flask-base-api)](https://github.com/mtnbarreto/flask-base-api)
 [![Chrome extension app](https://github-readme-stats.vercel.app/api/pin/?username=mtnbarreto&repo=chrome-extension-app)](https://github.com/mtnbarreto/chrome-extension-app)
