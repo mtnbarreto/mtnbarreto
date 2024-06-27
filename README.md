@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Martin Barreto (aka "mtnbarreto" or "barreto").
+## Hi there 👋, I'm Martin Barreto (aka "mtnbarreto").
 
- I'm a computer engineer from 🇺🇾 building stuff mainly in ML 🤖 and Blckchain ⛓️ fields. 
+ I'm a computer engineer from 🇺🇾 building AI automation 🤖 and Blockchain ⛓️ apps. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtnbarreto&hide_progress=true)
 
